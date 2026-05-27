@@ -307,11 +307,13 @@ Bugs, layout issues, new layout requests — Issues and PRs welcome. Priorities 
 
 ## License
 
-MIT (with Open-Source Requirement) © 2026 [op7418](https://github.com/op7418)
+AGPL-3.0 © 2026 [op7418](https://github.com/op7418)
 
-This project is based on MIT but adds two mandatory clauses:
+This project is licensed under **GNU AGPL-3.0**. Key points:
 
-1. **Attribution required** — Any public distribution or derivative work must retain the copyright notice and credit "op7418 / guizang-social-card-skill"
-2. **Open-source required** — Redistribution, modified versions, forks, or substantial reuse must be released publicly under an OSI-approved open-source license, with full source code available. Closed-source repackaging, proprietary distribution, or paid-only distribution is NOT permitted
+1. **Attribution required** — Retain the copyright notice
+2. **Derivatives must be open-sourced** — Any modified version, fork, or redistribution must be released under AGPL-3.0 (or a compatible license), with full source code made available
+3. **Network use is distribution** — Even if you only run a modified version as a SaaS / web service without distributing the code, you must still publish the source (this is what makes AGPL stricter than GPL)
+4. **No closed-source, proprietary, or paid-only distribution**
 
 Full terms in [`LICENSE`](./LICENSE).
