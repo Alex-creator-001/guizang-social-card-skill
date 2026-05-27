@@ -1,0 +1,44 @@
+MIT License (with Open-Source Requirement)
+
+Copyright (c) 2026 op7418
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. ATTRIBUTION. The above copyright notice and this permission notice shall
+   be included in all copies or substantial portions of the Software, and
+   credit must be given to "op7418 / guizang-social-card-skill" in any
+   public-facing distribution, derivative work, or substantial reuse.
+
+2. OPEN-SOURCE REQUIREMENT. Any redistribution, derivative work, fork, or
+   substantial reuse of this Software — whether modified or unmodified —
+   must be released publicly under an OSI-approved open-source license, with
+   full source code made available to the public free of charge.
+   Closed-source distribution, proprietary repackaging, or paid-only
+   distribution of this Software or works substantially derived from it is
+   NOT permitted.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+---
+
+中文摘要(非法律文本，以上文英文条款为准):
+
+本项目基于 MIT 协议,但增加两条强制条款:
+
+1. 署名 - 任何公开分发、衍生作品、二次使用,必须保留版权声明,
+   并署名 "op7418 / guizang-social-card-skill"。
+
+2. 必须开源 - 任何对本项目的二次分发、修改版本、Fork、或实质性
+   再利用,都必须在 OSI 认可的开源协议下公开发布,且公开提供
+   完整源代码。不允许闭源、专有化打包、或仅以付费形式分发。

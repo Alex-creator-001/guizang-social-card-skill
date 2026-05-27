@@ -307,4 +307,11 @@ Bugs, layout issues, new layout requests — Issues and PRs welcome. Priorities 
 
 ## License
 
-MIT © 2026 [op7418](https://github.com/op7418)
+MIT (with Open-Source Requirement) © 2026 [op7418](https://github.com/op7418)
+
+This project is based on MIT but adds two mandatory clauses:
+
+1. **Attribution required** — Any public distribution or derivative work must retain the copyright notice and credit "op7418 / guizang-social-card-skill"
+2. **Open-source required** — Redistribution, modified versions, forks, or substantial reuse must be released publicly under an OSI-approved open-source license, with full source code available. Closed-source repackaging, proprietary distribution, or paid-only distribution is NOT permitted
+
+Full terms in [`LICENSE`](./LICENSE).
